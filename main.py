@@ -1,4 +1,5 @@
 import tkinter as tk
+tk.Tk.mainloop()
 
 def on_button_click():
     label.config(text="Hello, GUI App!")
